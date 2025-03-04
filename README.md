@@ -3,6 +3,12 @@
 n8n is a self-hosted, open‑source workflow automation platform that lets you build workflows.  
 This list features the most popular community nodes – the node's number is its ranking based on monthly downloads (from npmjs.com).
 
+| Crawl Datetime | Total Nodes Found | Avg New Nodes/Day |
+|------|------------------|-------------------|
+| 2025-02-04 11:23 | 1075 | - |
+| 2025-02-12 07:58 | 1108 | 4.1 |
+| 2025-03-04 12:34 | 1225 | 5.2 |
+
 ## Navigation
 - [1. Communication & Messaging Nodes](#1-communication--messaging-nodes)
 - [2. Document & Content Generation Nodes](#2-document--content-generation-nodes)
