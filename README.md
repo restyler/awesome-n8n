@@ -168,6 +168,7 @@ the box on all subscription plans, including free plan.
 | 62 | [n8n-nodes-ffmpeg](https://www.npmjs.com/package/n8n-nodes-ffmpeg) | Merge videos using FFMPEG. | [@chelovek86](null/chelovek86) | 0.1.4 | 1,077 | 8 |
 | 74 | [n8n-nodes-pdf-generation](https://www.npmjs.com/package/n8n-nodes-pdf-generation) | Generate PDF from text or tables. | [@tuananhit1612](null/tuananhit1612) | 0.1.0 | 914 | 16 |
 | 77 | [n8n-nodes-exifr](https://www.npmjs.com/package/n8n-nodes-exifr) | Extract EXIF data from images. | [@bored0ne](null/bored0ne) | 0.1.12 | 871 | 4 |
+| 97 | [n8n-nodes-opencv](https://www.npmjs.com/package/n8n-nodes-opencv) | Perform OpenCV operations in workflows. | [@jreyesr](null/jreyesr) | 1.0.0 | 709 | 10 |
 
 ---
 
@@ -178,7 +179,6 @@ the box on all subscription plans, including free plan.
 | 50 | [n8n-nodes-form-login](https://www.npmjs.com/package/n8n-nodes-form-login) | Perform HTTP POST login. | [@matpasquet](null/matpasquet) | 0.1.8 | 1,459 | 50 |
 | 78 | [n8n-nodes-debughelper](https://www.npmjs.com/package/n8n-nodes-debughelper) | Debug helper tools for workflows. | [@flipswitchingmonkey](null/flipswitchingmonkey) | 0.1.4 | 867 | 93 |
 | 89 | [n8n-nodes-rss-feed-trigger](https://www.npmjs.com/package/n8n-nodes-rss-feed-trigger) | Trigger workflows from RSS feeds. | [@joff](null/joff) | 0.1.3 | 740 | 123 |
-| 97 | [n8n-nodes-opencv](https://www.npmjs.com/package/n8n-nodes-opencv) | Perform OpenCV operations in workflows. | [@jreyesr](null/jreyesr) | 1.0.0 | 709 | 10 |
 
 ---
 
