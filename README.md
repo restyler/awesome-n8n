@@ -1,6 +1,6 @@
 # Awesome N8N: Top 100 Community Nodes
 
-n8n is a self-hosted, open‑source workflow automation platform that lets you build workflows.  
+[n8n](https://n8n.partnerlinks.io/xvc4bt53bv9e) is a self-hosted, open‑source workflow automation platform that lets you build workflows.  
 This list features the most popular community nodes – the node's number is its ranking based on monthly downloads (from npmjs.com).
 
 | Crawl Datetime | Total Nodes Found | Avg New Nodes/Day |
