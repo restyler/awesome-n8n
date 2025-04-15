@@ -5,7 +5,7 @@ This list features the most popular community nodes – the node’s number is i
 
 | Crawl Datetime     | Total Nodes Found | New Nodes Total Qty | Avg New Nodes/Day |
 |--------------------|-------------------|---------------------|-------------------|
-| 2025-02-04 11:23   | 1075              | 0                   | -                 |
+| 2025-02-04 11:23   | 1075              | -                   | -                 |
 | 2025-02-12 07:58   | 1108              | 33                  | 4.2               |
 | 2025-03-04 12:34   | 1225              | 117                 | 5.8               |
 | 2025-03-24 10:01   | 1357              | 132                 | 6.6               |
