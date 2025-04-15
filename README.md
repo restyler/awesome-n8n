@@ -61,6 +61,14 @@ This list features the most popular community nodes – the node’s number is i
 ---
 
 ## 3. Browser Automation & Web Scraping Nodes
+<a href="https://scrapeninja.net?utm_source=github&utm_medium=banner&utm_campaign=awesome" target="_blank"><img src="https://scrapeninja.net/img/logo_with_text_new5.svg" alt="Scrape Ninja" width="149"></a>
+
+[ScrapeNinja](https://scrapeninja.net?utm_source=github&utm_medium=banner&utm_campaign=awesome) is a web scraping API with two engines: fast, with high performance and TLS
+fingerprint; and slower with a real browser under the hood. ScrapeNinja [official, open-source n8n integration](https://scrapeninja.net/docs/n8n/?utm_source=github&utm_medium=banner&utm_campaign=awesome) offers smart website crawler and convenient (free, locally executed) operations to extract primary HTML body content from any website.
+
+ScrapeNinja handles headless browsers, proxies, timeouts, retries, and helps with data
+extraction, so you can just get the data in JSON. Rotating proxies are available out of
+the box on all subscription plans, including free plan.
 
 | #  | Node | Description | Author | Version | Monthly Downloads | Updated (weeks ago) |
 |----|------|-------------|--------|---------|-------------------|---------------------|
