@@ -1,18 +1,19 @@
 # Awesome N8N: Top 100 Community Nodes
 
-[n8n](https://n8n.partnerlinks.io/xvc4bt53bv9e) is a self-hosted, open‑source workflow automation platform that lets you build workflows.  
-This list features the most popular community nodes – the node's number is its ranking based on monthly downloads (from npmjs.com).
+[n8n](https://n8n.partnerlinks.io/xvc4bt53bv9e) is a self‑hosted, open‑source workflow automation platform that lets you build workflows.  
+This list features the most popular community nodes – the node’s number is its ranking based on monthly downloads (from npmjs.com).
 
-| Crawl Datetime | Total Nodes Found | Avg New Nodes/Day |
-|------|------------------|-------------------|
-| 2025-02-04 11:23 | 1075 | - |
-| 2025-02-12 07:58 | 1108 | 4.1 |
-| 2025-03-04 12:34 | 1225 | 5.2 |
-| 2025-03-24 10:01 | 1357 | 6.6 |
+| Crawl Datetime     | Total Nodes Found | New Nodes Total Qty | Avg New Nodes/Day |
+|--------------------|-------------------|---------------------|-------------------|
+| 2025-02-04 11:23   | 1075              | 0                   | -                 |
+| 2025-02-12 07:58   | 1108              | 33                  | 4.2               |
+| 2025-03-04 12:34   | 1225              | 117                 | 5.8               |
+| 2025-03-24 10:01   | 1357              | 132                 | 6.6               |
+| 2025-04-15 17:27   | 1535              | 178                 | 8.0               |
 
 ## Navigation
 - [1. Communication & Messaging Nodes](#1-communication--messaging-nodes)
-- [2. Document & Content Generation Nodes](#2-document--content-generation-nodes) 
+- [2. Document & Content Generation Nodes](#2-document--content-generation-nodes)
 - [3. Browser Automation & Web Scraping Nodes](#3-browser-automation--web-scraping-nodes)
 - [4. Data Processing, Validation & Utilities Nodes](#4-data-processing-validation--utilities-nodes)
 - [5. API & Cloud Integrations Nodes](#5-api--cloud-integrations-nodes)
@@ -26,22 +27,25 @@ This list features the most popular community nodes – the node's number is its
 
 | #  | Node | Description | Author | Version | Monthly Downloads | Updated (weeks ago) |
 |----|------|-------------|--------|---------|-------------------|---------------------|
-| 1  | [n8n-nodes-evolution-api](https://www.npmjs.com/package/n8n-nodes-evolution-api) | Evolution API: Multi-channel hub focused on WhatsApp. | [@oriondesign](null/oriondesign) | 1.0.4 | 638,687 | 1 |
-| 2  | [n8n-nodes-chatwoot](https://www.npmjs.com/package/n8n-nodes-chatwoot) | Integrate ChatWoot into workflows. | [@hugodeco](null/hugodeco) | 0.1.40 | 32,033 | 109 |
-| 6  | [n8n-nodes-quepasa](https://www.npmjs.com/package/n8n-nodes-quepasa) | Integrate Quepasa into workflows. | [@hugodeco](null/hugodeco) | 0.1.84 | 17,990 | 21 |
-| 8  | [@devlikeapro/n8n-nodes-chatwoot](https://www.npmjs.com/package/@devlikeapro/n8n-nodes-chatwoot) | Connect with ChatWoot. | [@devlikeapro](null/devlikeapro) | 1.0.1 | 15,283 | 26 |
-| 13 | [n8n-nodes-twitter-uploader](https://www.npmjs.com/package/n8n-nodes-twitter-uploader) | Upload media to Twitter. | [@raaaas](null/raaaas) | 0.1.77 | 7,694 | 1 |
-| 22 | [n8n-nodes-evolution-api-media-downloader](https://www.npmjs.com/package/n8n-nodes-evolution-api-media-downloader) | Download media via Evolution API. | [@betorcs](null/betorcs) | 0.1.0 | 4,533 | 46 |
-| 25 | [@devlikeapro/n8n-nodes-waha](https://www.npmjs.com/package/@devlikeapro/n8n-nodes-waha) | Connect to WAHA for WhatsApp. | [@devlikeapro](null/devlikeapro) | 2025.2.9 | 3,560 | 5 |
-| 48 | [n8n-nodes-quidvista](https://www.npmjs.com/package/n8n-nodes-quidvista) | Integrate with msgboxx via Quidvista. | [@quidvista](null/quidvista) | 0.2.7 | 1,509 | 1 |
-| 53 | [n8n-nodes-d7-messaging](https://www.npmjs.com/package/n8n-nodes-d7-messaging) | Send SMS/WhatsApp via D7 API. | [@direct7networks](null/direct7networks) | 0.2.2 | 1,397 | 9 |
-| 67 | [n8n-nodes-discord](https://www.npmjs.com/package/n8n-nodes-discord) | Trigger workflows or send messages via Discord. | [@hckdotng](null/hckdotng) | 0.5.0 | 1,052 | 114 |
-| 72 | [n8n-nodes-ultimate-reddit](https://www.npmjs.com/package/n8n-nodes-ultimate-reddit) | Enhanced Reddit integration for video posts. | [@monnierant](null/monnierant) | 0.1.2 | 950 | 2 |
-| 80 | [n8n-nodes-discord-trigger](https://www.npmjs.com/package/n8n-nodes-discord-trigger) | Trigger workflows on Discord messages. | [@katerlol](null/katerlol) | 0.3.1 | 815 | 5 |
-| 81 | [n8n-nodes-imap](https://www.npmjs.com/package/n8n-nodes-imap) | Retrieve emails from an IMAP server. | [@umanamente](null/umanamente) | 2.5.0 | 811 | 3 |
-| 83 | [n8n-nodes-whatsapp-buttons](https://www.npmjs.com/package/n8n-nodes-whatsapp-buttons) | Send interactive messages via WhatsApp Business API. | [@ap-software](null/ap-software) | 1.0.1 | 808 | 17 |
-| 90 | [n8n-nodes-lead2chat](https://www.npmjs.com/package/n8n-nodes-lead2chat) | Integrate with Lead2Chat. | [@masewo](null/masewo) | 0.3.4 | 730 | 2 |
-| 100| [n8n-nodes-wassenger](https://www.npmjs.com/package/n8n-nodes-wassenger) | Integrate with Wassenger. | [@wassengerteam](https://www.npmjs.com/wassengerteam) | 1.0.14 | 703 | 1 |
+| 1  | [n8n-nodes-evolution-api](https://www.npmjs.com/package/n8n-nodes-evolution-api) | Evolution API: Multi-channel hub focused on WhatsApp. | [@oriondesign](null/oriondesign) | 1.0.4 | 1,094,928 | 4 |
+| 2  | [n8n-nodes-chatwoot](https://www.npmjs.com/package/n8n-nodes-chatwoot) | Integrate ChatWoot into workflows. | [@hugodeco](null/hugodeco) | 0.1.40 | 279,711 | 112 |
+| 3  | [n8n-nodes-quepasa](https://www.npmjs.com/package/n8n-nodes-quepasa) | Integrate Quepasa into workflows. | [@hugodeco](null/hugodeco) | 0.1.84 | 252,083 | 24 |
+| 7  | [@devlikeapro/n8n-nodes-chatwoot](https://www.npmjs.com/package/@devlikeapro/n8n-nodes-chatwoot) | Connect with ChatWoot. | [@devlikeapro](null/devlikeapro) | 1.0.1 | 76,126 | 29 |
+| 17 | [n8n-nodes-twitter-uploader](https://www.npmjs.com/package/n8n-nodes-twitter-uploader) | Upload media to Twitter. | [@raaaas](null/raaaas) | 0.1.79 | 8,745 | 2 |
+| 35 | [n8n-nodes-notificame-hub](https://www.npmjs.com/package/n8n-nodes-notificame-hub) | NotificaMe Hub automates communication across multiple channels. | [@oriondesign](null/oriondesign) | 0.2.0 | 2,520 | 4 |
+| 43 | [n8n-nodes-zalo-user](https://www.npmjs.com/package/n8n-nodes-zalo-user) | Integrate with Zalo. | [@smthanh](https://www.npmjs.com/smthanh) | 0.0.13 | 1,984 | 1 |
+| 46 | [@inite/n8n-nodes-telepilot](https://www.npmjs.com/package/@inite/n8n-nodes-telepilot) | Your personal Telegram CoPilot. | [@mikefluff](null/mikefluff) | 0.5.39 | 1,852 | 2 |
+| 48 | [n8n-nodes-discord](https://www.npmjs.com/package/n8n-nodes-discord) | Trigger workflows or send messages via Discord. | [@hckdotng](null/hckdotng) | 0.5.0 | 1,767 | 117 |
+| 51 | [@inite/n8n-nodes-instagram-private-api](https://www.npmjs.com/package/@inite/n8n-nodes-instagram-private-api) | Integrate with Instagram Private API with 2FA support. | [@mikefluff](null/mikefluff) | 1.0.43 | 1,553 | 2 |
+| 57 | [n8n-nodes-wassenger](https://www.npmjs.com/package/n8n-nodes-wassenger) | Integrate with Wassenger. | [@wassengerteam](https://www.npmjs.com/wassengerteam) | 1.1.0 | 1,414 | 3 |
+| 58 | [n8n-nodes-evolution-api-media-downloader](https://www.npmjs.com/package/n8n-nodes-evolution-api-media-downloader) | Download media via Evolution API. | [@betorcs](null/betorcs) | 0.1.0 | 1,402 | 50 |
+| 62 | [@oxlac/n8n-nodes-twittermediauploader](https://www.npmjs.com/package/@oxlac/n8n-nodes-twittermediauploader) | Upload media to Twitter and return media ID. | [@guhan-sensam](https://github.com/guhan-sensam) | 0.6.0 | 1,349 | 3 |
+| 71 | [n8n-nodes-d7-messaging](https://www.npmjs.com/package/n8n-nodes-d7-messaging) | Send SMS/WhatsApp via D7 API. | [@direct7networks](null/direct7networks) | 0.2.2 | 1,173 | 12 |
+| 82 | [n8n-nodes-nqdev-beta](https://www.npmjs.com/package/n8n-nodes-nqdev-beta) | Integrate eSMS.vn to send SMS, Zalo, or Viber messages. | [@nhquydev](null/nhquydev) | 0.1.21 | 1,018 | 1 |
+| 83 | [n8n-nodes-ultimate-reddit](https://www.npmjs.com/package/n8n-nodes-ultimate-reddit) | Enhanced Reddit integration for video posts. | [@monnierant](null/monnierant) | 0.1.2 | 1,015 | 5 |
+| 98 | [n8n-nodes-ultimate-bluesky](https://www.npmjs.com/package/n8n-nodes-ultimate-bluesky) | Integrate with the BlueSky API. | [@monnierant](null/monnierant) | 2.9.12 | 842 | 3 |
+| 99 | [n8n-nodes-imap](https://www.npmjs.com/package/n8n-nodes-imap) | Retrieve emails from an IMAP server. | [@umanamente](null/umanamente) | 2.6.1 | 838 | 1 |
+| 100| [n8n-nodes-clientesonline](https://www.npmjs.com/package/n8n-nodes-clientesonline) | WhatsApp conversational automation for businesses. | [@clientesonline](null/clientesonline) | 0.7.1 | 828 | 3 |
 
 ---
 
@@ -49,38 +53,26 @@ This list features the most popular community nodes – the node's number is its
 
 | #  | Node | Description | Author | Version | Monthly Downloads | Updated (weeks ago) |
 |----|------|-------------|--------|---------|-------------------|---------------------|
-| 12 | [n8n-nodes-document-generator](https://www.npmjs.com/package/n8n-nodes-document-generator) | Generate dynamic documents/emails using templates. | [@mcolomer](null/mcolomer) | 1.0.10 | 7,986 | 3 |
-| 41 | [n8n-nodes-youtube-transcription-kasha](https://www.npmjs.com/package/n8n-nodes-youtube-transcription-kasha) | Fetch YouTube transcripts. | [@briananderson2793](null/briananderson2793) | 1.0.1 | 1,704 | 11 |
-| 47 | [n8n-nodes-pandoc-md-to](https://www.npmjs.com/package/n8n-nodes-pandoc-md-to) | Convert Markdown using Pandoc. | [@infograb](null/infograb) | 0.2.3 | 1,541 | 2 |
-| 69 | [@anpigon/n8n-nodes-youtube-transcript](https://www.npmjs.com/package/@anpigon/n8n-nodes-youtube-transcript) | Download YouTube video transcripts. | [@markan82](null/markan82) | 0.1.9 | 1,012 | 5 |
+| 28 | [n8n-nodes-document-generator](https://www.npmjs.com/package/n8n-nodes-document-generator) | Generate dynamic documents/emails using templates. | [@mcolomer](null/mcolomer) | 1.0.10 | 4,886 | 6 |
+| 39 | [n8n-nodes-youtube-transcription-kasha](https://www.npmjs.com/package/n8n-nodes-youtube-transcription-kasha) | Fetch YouTube transcripts. | [@briananderson2793](null/briananderson2793) | 1.0.1 | 2,224 | 14 |
+| 47 | [n8n-nodes-generate-report](https://www.npmjs.com/package/n8n-nodes-generate-report) | Fill in a DocX template with data from a JSON object. | [@bramknuever](null/bramknuever) | 0.1.0 | 1,770 | 105 |
+| 94 | [n8n-nodes-docuseal](https://www.npmjs.com/package/n8n-nodes-docuseal) | Manage DocuSeal documents, templates, and submissions within workflows. | [@serkanhaslak](null/serkanhaslak) | 0.8.2 | 923 | 1 |
 
 ---
 
 ## 3. Browser Automation & Web Scraping Nodes
-<a href="https://scrapeninja.net?utm_source=github&utm_medium=banner&utm_campaign=awesome" target="_blank"><img src="https://scrapeninja.net/img/logo_with_text_new5.svg" alt="Scrape Ninja" width="149"></a>
-
-[ScrapeNinja](https://scrapeninja.net?utm_source=github&utm_medium=banner&utm_campaign=awesome) is a web scraping API with two engines: fast, with high performance and TLS
-fingerprint; and slower with a real browser under the hood. ScrapeNinja [official, open-source n8n integration](https://scrapeninja.net/docs/n8n/?utm_source=github&utm_medium=banner&utm_campaign=awesome) offers smart website crawler and convenient (free, locally executed) operations to extract primary HTML body content from any website.
-
-ScrapeNinja handles headless browsers, proxies, timeouts, retries, and helps with data
-extraction, so you can just get the data in JSON. Rotating proxies are available out of
-the box on all subscription plans, including free plan.
 
 | #  | Node | Description | Author | Version | Monthly Downloads | Updated (weeks ago) |
 |----|------|-------------|--------|---------|-------------------|---------------------|
-| 17 | [n8n-nodes-browserless](https://www.npmjs.com/package/n8n-nodes-browserless) | Integrate with Browserless for headless automation. | [@minhlucvan](null/minhlucvan) | 1.1.3 | 6,631 | 25 |
-| 21 | [n8n-nodes-puppeteer](https://www.npmjs.com/package/n8n-nodes-puppeteer) | Automate browsers with Puppeteer. | [@drudge](null/drudge) | 1.3.1 | 4,839 | 14 |
-| 42 | [n8n-nodes-browserflow](https://www.npmjs.com/package/n8n-nodes-browserflow) | Automate LinkedIn actions with Browserflow. | [@browserflow](null/browserflow) | 0.1.24 | 1,645 | 1 |
-| 51 | [n8n-nodes-scrapeninja](https://www.npmjs.com/package/n8n-nodes-scrapeninja) | Scrape web content using ScrapeNinja API. | [@restyler](null/restyler) | 0.4.1 | 1,420 | 7 |
-| 55 | [n8n-nodes-playwright](https://www.npmjs.com/package/n8n-nodes-playwright) | Automate browsers with Playwright. | [@toema](null/toema) | 0.2.10 | 1,332 | 2 |
-| 56 | [n8n-nodes-webpage-content-extractor](https://www.npmjs.com/package/n8n-nodes-webpage-content-extractor) | Extract webpage content. | [@savjee](null/savjee) | 0.1.3 | 1,315 | 11 |
-| 58 | [n8n-nodes-apify](https://www.npmjs.com/package/n8n-nodes-apify) | Integrate with Apify for web scraping. | [@minhlucvan](null/minhlucvan) | 0.1.0 | 1,183 | 25 |
-| 59 | [@bitovi/n8n-nodes-google-search](https://www.npmjs.com/package/@bitovi/n8n-nodes-google-search) | Query Google Search. | [@bitovi-os](null/bitovi-os) | 0.1.6 | 1,167 | 18 |
-| 63 | [n8n-nodes-puppeteer-next](https://www.npmjs.com/package/n8n-nodes-puppeteer-next) | Automate browsers with Puppeteer (Next). | [@gamoridev](null/gamoridev) | 1.1.0 | 1,074 | 2 |
-| 70 | [n8n-nodes-firecrawl-v1](https://www.npmjs.com/package/n8n-nodes-firecrawl-v1) | Integrate with FireCrawl. | [@lecondor](null/lecondor) | 0.4.21 | 989 | 9 |
-| 82 | [n8n-nodes-browser-use](https://www.npmjs.com/package/n8n-nodes-browser-use) | Control AI-powered browser automation. | [@kieng](null/kieng) | 0.1.6 | 808 | 4 |
-| 86 | [n8n-nodes-firecrawl](https://www.npmjs.com/package/n8n-nodes-firecrawl) | Integrate with FireCrawl. | [@minhlucvan](null/minhlucvan) | 0.3.0 | 781 | 25 |
-| 96 | [n8n-nodes-twitter-scraper](https://www.npmjs.com/package/n8n-nodes-twitter-scraper) | Scrape Twitter data without API. | [@alejandroakbal](null/alejandroakbal) | 0.2.0 | 710 | 54 |
+| 19 | [n8n-nodes-puppeteer](https://www.npmjs.com/package/n8n-nodes-puppeteer) | Automate browsers with Puppeteer. | [@drudge](null/drudge) | 1.4.1 | 7,410 | 3 |
+| 24 | [n8n-nodes-browserless](https://www.npmjs.com/package/n8n-nodes-browserless) | Integrate with Browserless for headless automation. | [@minhlucvan](null/minhlucvan) | 1.1.3 | 6,259 | 28 |
+| 44 | [n8n-nodes-firecrawl](https://www.npmjs.com/package/n8n-nodes-firecrawl) | Crawl websites with FireCrawl. | [@minhlucvan](null/minhlucvan) | 0.3.0 | 1,918 | 28 |
+| 50 | [n8n-nodes-webpage-content-extractor](https://www.npmjs.com/package/n8n-nodes-webpage-content-extractor) | Extract webpage content. | [@savjee](null/savjee) | 0.1.3 | 1,722 | 15 |
+| 52 | [n8n-nodes-playwright](https://www.npmjs.com/package/n8n-nodes-playwright) | Automate browsers with Playwright. | [@toema](null/toema) | 0.2.10 | 1,550 | 5 |
+| 53 | [n8n-nodes-browserflow](https://www.npmjs.com/package/n8n-nodes-browserflow) | Automate LinkedIn actions with Browserflow. | [@browserflow](null/browserflow) | 0.1.34 | 1,451 | 2 |
+| 70 | [n8n-nodes-puppeteer-next](https://www.npmjs.com/package/n8n-nodes-puppeteer-next) | Automate browsers with Puppeteer (Next). | [@gamoridev](null/gamoridev) | 1.1.0 | 1,175 | 5 |
+| 72 | [n8n-nodes-scrapeninja](https://www.npmjs.com/package/n8n-nodes-scrapeninja) | Scrape web content using ScrapeNinja API. | [@restyler](null/restyler) | 0.4.1 | 1,154 | 10 |
+| 86 | [n8n-nodes-puppeteer-dokploy](https://www.npmjs.com/package/n8n-nodes-puppeteer-dokploy) | Automate browsers with Puppeteer (Dokploy). | [@denyzhirkov](null/denyzhirkov) | 1.2.5 | 993 | 3 |
 
 ---
 
@@ -88,20 +80,13 @@ the box on all subscription plans, including free plan.
 
 | #  | Node | Description | Author | Version | Monthly Downloads | Updated (weeks ago) |
 |----|------|-------------|--------|---------|-------------------|---------------------|
-| 5  | [n8n-nodes-globals](https://www.npmjs.com/package/n8n-nodes-globals) | Manage global constants for workflows. | [@umanamente](null/umanamente) | 1.0.3 | 18,208 | 23 |
-| 9  | [n8n-nodes-text-manipulation](https://www.npmjs.com/package/n8n-nodes-text-manipulation) | Perform text manipulations. | [@lublak](null/lublak) | 1.4.0 | 12,051 | 41 |
-| 10 | [@splainez/n8n-nodes-phonenumber-parser](https://www.npmjs.com/package/@splainez/n8n-nodes-phonenumber-parser) | Parse and extract phone number details. | [@splainez](null/splainez) | 1.0.3 | 10,111 | 25 |
-| 19 | [n8n-nodes-pgp](https://www.npmjs.com/package/n8n-nodes-pgp) | Encrypt and decrypt data using OpenPGP. | [@bramknuever](null/bramknuever) | 0.1.3 | 5,795 | 76 |
-| 29 | [n8n-nodes-data-validation](https://www.npmjs.com/package/n8n-nodes-data-validation) | Validate input data with JSON Schemas. | [@bartolomeumr](null/bartolomeumr) | 1.0.1 | 2,936 | 135 |
-| 30 | [n8n-nodes-xlsx-to-json](https://www.npmjs.com/package/n8n-nodes-xlsx-to-json) | Convert Excel files to JSON. | [@frimen](null/frimen) | 0.4.28 | 2,927 | 3 |
-| 37 | [n8n-nodes-qrcode](https://www.npmjs.com/package/n8n-nodes-qrcode) | Generate QR codes. | [@0xtlt](null/0xtlt) | 0.1.0 | 1,969 | 112 |
-| 52 | [n8n-nodes-sqlite3](https://www.npmjs.com/package/n8n-nodes-sqlite3) | Query SQLite3 databases. | [@dangerblack](null/dangerblack) | 0.1.2 | 1,412 | 27 |
-| 54 | [n8n-nodes-run-node-with-credentials-x](https://www.npmjs.com/package/n8n-nodes-run-node-with-credentials-x) | Run any node with given credentials. | [@bramknuever](null/bramknuever) | 0.3.5 | 1,388 | 14 |
-| 68 | [n8n-nodes-websockets-lite](https://www.npmjs.com/package/n8n-nodes-websockets-lite) | Trigger workflows via WebSockets. | [@blowsnow](null/blowsnow) | 0.3.4 | 1,015 | 2 |
-| 75 | [@rxap/n8n-nodes-yaml](https://www.npmjs.com/package/@rxap/n8n-nodes-yaml) | Convert data to/from YAML. | [@mmuenker](null/mmuenker) | 0.1.6 | 881 | 3 |
-| 85 | [n8n-nodes-turndown-html-to-markdown](https://www.npmjs.com/package/n8n-nodes-turndown-html-to-markdown) | Convert HTML to Markdown. | [@rubens.flinco](null/rubens.flinco) | 1.0.5 | 783 | 69 |
-| 87 | [@rxap/n8n-nodes-sanitize-html](https://www.npmjs.com/package/@rxap/n8n-nodes-sanitize-html) | Sanitize HTML content. | [@mmuenker](null/mmuenker) | 1.1.1 | 775 | 3 |
-| 88 | [@rxap/n8n-nodes-cache](https://www.npmjs.com/package/@rxap/n8n-nodes-cache) | Cache workflow items. | [@mmuenker](null/mmuenker) | 1.0.2 | 747 | 3 |
+| 8  | [n8n-nodes-globals](https://www.npmjs.com/package/n8n-nodes-globals) | Manage global constants for workflows. | [@umanamente](null/umanamente) | 1.0.3 | 28,078 | 26 |
+| 9  | [n8n-nodes-text-manipulation](https://www.npmjs.com/package/n8n-nodes-text-manipulation) | Perform text manipulations. | [@lublak](null/lublak) | 1.4.0 | 20,503 | 44 |
+| 13 | [@splainez/n8n-nodes-phonenumber-parser](https://www.npmjs.com/package/@splainez/n8n-nodes-phonenumber-parser) | Parse and extract phone number details. | [@splainez](null/splainez) | 1.0.3 | 10,348 | 28 |
+| 15 | [n8n-nodes-pgp](https://www.npmjs.com/package/n8n-nodes-pgp) | Encrypt and decrypt data using OpenPGP. | [@bramknuever](null/bramknuever) | 0.1.3 | 9,357 | 79 |
+| 34 | [n8n-nodes-qrcode](https://www.npmjs.com/package/n8n-nodes-qrcode) | Generate QR codes. | [@0xtlt](null/0xtlt) | 0.1.0 | 2,642 | 115 |
+| 40 | [n8n-nodes-data-validation](https://www.npmjs.com/package/n8n-nodes-data-validation) | Validate input data with JSON Schemas. | [@bartolomeumr](null/bartolomeumr) | 1.0.1 | 2,193 | 138 |
+| 63 | [n8n-nodes-run-node-with-credentials-x](https://www.npmjs.com/package/n8n-nodes-run-node-with-credentials-x) | Run any node with given credentials. | [@bramknuever](null/bramknuever) | 0.3.5 | 1,302 | 17 |
 
 ---
 
@@ -109,31 +94,37 @@ the box on all subscription plans, including free plan.
 
 | #  | Node | Description | Author | Version | Monthly Downloads | Updated (weeks ago) |
 |----|------|-------------|--------|---------|-------------------|---------------------|
-| 3  | [n8n-nodes-kommo](https://www.npmjs.com/package/n8n-nodes-kommo) | Integrate with Kommo API. | [@yatolstoy](null/yatolstoy) | 0.0.16 | 24,235 | 23 |
-| 4  | [n8n-nodes-mcp](https://www.npmjs.com/package/n8n-nodes-mcp) | Integrate with MCP. | [@iamfiscus](null/iamfiscus) | 0.1.13 | 19,248 | 1 |
-| 15 | [n8n-nodes-fireflyiii](https://www.npmjs.com/package/n8n-nodes-fireflyiii) | Manage Firefly III instance. | [@ijihad](null/ijihad) | 0.1.1 | 6,820 | 18 |
-| 18 | [n8n-nodes-awork](https://www.npmjs.com/package/n8n-nodes-awork) | Integrate with awork API. | [@meetq](null/meetq) | 0.1.28 | 6,587 | 6 |
-| 20 | [@skriptfabrik/n8n-nodes-moco](https://www.npmjs.com/package/@skriptfabrik/n8n-nodes-moco) | Integrate with MOCO. | [@schroedan](null/schroedan) | 0.3.35 | 5,606 | 1 |
-| 23 | [n8n-nodes-firebird](https://www.npmjs.com/package/n8n-nodes-firebird) | Integrate with Firebird. | [@anantanandgupta](null/anantanandgupta) | 0.0.3 | 4,301 | 15 |
-| 24 | [n8n-nodes-cnpj](https://www.npmjs.com/package/n8n-nodes-cnpj) | Retrieve Brazilian company details via CNPJ. | [@integreme](null/integreme) | 1.0.0 | 3,691 | 59 |
-| 26 | [n8n-nodes-minio](https://www.npmjs.com/package/n8n-nodes-minio) | Integrate with MinIO storage. | [@cedricziel](null/cedricziel) | 0.1.4 | 3,224 | 14 |
-| 28 | [n8n-nodes-wts](https://www.npmjs.com/package/n8n-nodes-wts) | Integrate with WTS services. | [@wts-chat](null/wts-chat) | 2.0.2 | 2,967 | 1 |
-| 32 | [n8n-nodes-aws-sdk-v3](https://www.npmjs.com/package/n8n-nodes-aws-sdk-v3) | Access AWS services via SDK v3. | [@tobinbc](null/tobinbc) | 3.0.4 | 2,519 | 1 |
-| 33 | [n8n-nodes-plane](https://www.npmjs.com/package/n8n-nodes-plane) | Integrate with Plane API. | [@shenhh](https://gitlab.corp.youdao.com/shenhh) | 1.1.26 | 2,468 | 3 |
-| 36 | [n8n-nodes-grok](https://www.npmjs.com/package/n8n-nodes-grok) | Integrate with Grok API. | [@jvkassi](null/jvkassi) | 0.0.20 | 2,116 | 17 |
-| 38 | [@vladoportos/n8n-nodes-ghostplus](https://www.npmjs.com/package/@vladoportos/n8n-nodes-ghostplus) | Integrate with Ghost CMS (V2 API). | [@vladoprotos](null/vladoprotos) | 0.1.82 | 1,812 | 4 |
-| 39 | [n8n-nodes-parse-server](https://www.npmjs.com/package/n8n-nodes-parse-server) | Integrate with Parse Server. | [@symbyoz](https://www.npmjs.com/symbyoz) | 1.0.29 | 1,802 | 3 |
-| 49 | [n8n-nodes-openpix](https://www.npmjs.com/package/n8n-nodes-openpix) | Integrate with OpenPix. | [@fersilva](null/fersilva) | 0.3.0 | 1,497 | 105 |
-| 64 | [@couleetech/n8n-nodes-enlightenedmsp](https://www.npmjs.com/package/@couleetech/n8n-nodes-enlightenedmsp) | Integrate with EnlightenedMSP. | [@tholum](null/tholum) | 1.10.0 | 1,069 | 8 |
-| 66 | [@agendize/n8n-nodes-agendize](https://www.npmjs.com/package/@agendize/n8n-nodes-agendize) | Integrate with Agendize services. | @davidagendize | 0.1.15 | 1,056 | 4 |
-| 71 | [n8n-nodes-ninja-one](https://www.npmjs.com/package/n8n-nodes-ninja-one) | Integrate with NinjaOne. | [@olaf11071107](null/olaf11071107) | 1.1.2 | 985 | 2 |
-| 76 | [n8n-nodes-novinmarketing](https://www.npmjs.com/package/n8n-nodes-novinmarketing) | Integrate with Novin Marketing workflows. | [@mehrjoo61](null/mehrjoo61) | 0.6.8 | 878 | 1 |
-| 84 | [@rxap/n8n-nodes-open-webui](https://www.npmjs.com/package/@rxap/n8n-nodes-open-webui) | Integrate with Open Web UI. | [@mmuenker](null/mmuenker) | 0.0.3 | 802 | 3 |
-| 92 | [n8n-nodes-directus](https://www.npmjs.com/package/n8n-nodes-directus) | Integrate with Directus. | [@arladmin](null/arladmin) | 1.0.2 | 725 | 134 |
-| 93 | [n8n-nodes-square](https://www.npmjs.com/package/n8n-nodes-square) | Integrate with Square API. | [@rostamm](null/rostamm) | 1.1.3 | 722 | 4 |
-| 95 | [n8n-nodes-binance](https://www.npmjs.com/package/n8n-nodes-binance) | Integrate with Binance Exchange. | [@ducpham94](null/ducpham94) | 0.0.4 | 711 | 53 |
-| 98 | [n8n-nodes-halo-psa](https://www.npmjs.com/package/n8n-nodes-halo-psa) | Integrate with Halo PSA. | [@olaf11071107](null/olaf11071107) | 1.1.5 | 706 | 2 |
-| 99 | [n8n-nodes-bvq](https://www.npmjs.com/package/n8n-nodes-bvq) | Retrieve alerts via BVQ API. | [@svaworkflows](null/svaworkflows) | 1.1.7 | 703 | 1 |
+| 4  | [n8n-nodes-mcp](https://www.npmjs.com/package/n8n-nodes-mcp) | Integrate with MCP. | [@iamfiscus](null/iamfiscus) | 0.1.19 | 96,544 | 2 |
+| 6  | [@tavily/core](https://www.npmjs.com/package/@tavily/core) | Official JavaScript library for Tavily. | [@michael_griff](null/michael_griff) | 0.3.7 | 80,041 | 1 |
+| 11 | [n8n-nodes-awork](https://www.npmjs.com/package/n8n-nodes-awork) | Integrate with awork API. | [@meetq](null/meetq) | 0.1.28 | 17,087 | 9 |
+| 12 | [@skriptfabrik/n8n-nodes-moco](https://www.npmjs.com/package/@skriptfabrik/n8n-nodes-moco) | Integrate with MOCO. | [@schroedan](null/schroedan) | 0.3.38 | 15,733 | 1 |
+| 16 | [n8n-nodes-kommo](https://www.npmjs.com/package/n8n-nodes-kommo) | Integrate with Kommo API. | [@yatolstoy](null/yatolstoy) | 0.0.16 | 9,352 | 27 |
+| 20 | [n8n-nodes-minio](https://www.npmjs.com/package/n8n-nodes-minio) | Integrate with MinIO storage. | [@cedricziel](null/cedricziel) | 0.1.4 | 7,181 | 17 |
+| 21 | [n8n-nodes-fireflyiii](https://www.npmjs.com/package/n8n-nodes-fireflyiii) | Manage your Firefly III instance. | [@ijihad](null/ijihad) | 0.1.1 | 6,868 | 21 |
+| 22 | [n8n-nodes-grok](https://www.npmjs.com/package/n8n-nodes-grok) | Integrate with Grok API. | [@jvkassi](null/jvkassi) | 0.0.20 | 6,378 | 20 |
+| 26 | [n8n-nodes-openpix](https://www.npmjs.com/package/n8n-nodes-openpix) | Integrate with OpenPix. | [@fersilva](null/fersilva) | 0.3.0 | 5,176 | 108 |
+| 27 | [n8n-nodes-aws-sdk-v3](https://www.npmjs.com/package/n8n-nodes-aws-sdk-v3) | Access AWS services via SDK v3. | [@tobinbc](null/tobinbc) | 3.0.4 | 5,050 | 5 |
+| 29 | [n8n-nodes-wts](https://www.npmjs.com/package/n8n-nodes-wts) | Integrate with WTS services. | [@wts-chat](null/wts-chat) | 2.0.3 | 4,686 | 2 |
+| 31 | [n8n-nodes-firebird](https://www.npmjs.com/package/n8n-nodes-firebird) | Integrate with Firebird. | [@anantanandgupta](null/anantanandgupta) | 0.0.3 | 4,372 | 19 |
+| 32 | [n8n-nodes-rdstation](https://www.npmjs.com/package/@deviobr/n8n-nodes-rdstation) | Create a new conversion in RD Station Marketing. | [@paulorwd](null/paulorwd) | 0.2.8 | 3,572 | 64 |
+| 33 | [n8n-nodes-worktables](https://www.npmjs.com/package/@worktables/n8n-nodes-worktables) | Integrate with Monday.com. | [@worktables](https://www.npmjs.com/worktables) | 9.0.0 | 2,782 | 1 |
+| 37 | [n8n-nodes-amazon-paapi](https://www.npmjs.com/package/@henkey/n8n-nodes-amazon-paapi) | Integrate with Amazon Affiliate API (PA API 5.0). | [@henkey](null/henkey) | 0.3.5 | 2,325 | 4 |
+| 42 | [n8n-nodes-bvq](https://www.npmjs.com/package/n8n-nodes-bvq) | Retrieve data from the BVQ API, including alerts and events. | [@svaworkflows](null/svaworkflows) | 2.0.4 | 2,032 | 3 |
+| 45 | [n8n-nodes-autotask](https://www.npmjs.com/package/n8n-nodes-autotask) | Integrate with Autotask PSA. | [@maxs05](null/maxs05) | 0.7.0 | 1,865 | 1 |
+| 59 | [n8n-nodes-smartsuite](https://www.npmjs.com/package/@jacobwoodward/n8n-nodes-smartsuite) | Interact with SmartSuite's API to manage records and search data. | [@jacobwoodward](null/jacobwoodward) | 0.8.0 | 1,394 | 3 |
+| 60 | [n8n-nodes-magicdoorinc](https://www.npmjs.com/package/n8n-nodes-magicdoorinc) | Integrate with the MagicDoor API. | [@lei2025](null/lei2025) | 0.2.8 | 1,388 | 2 |
+| 61 | [n8n-nodes-heroes-profile](https://www.npmjs.com/package/n8n-nodes-heroes-profile) | Interact with the Heroes Profile API. | [@stollthestoll](null/stollthestoll) | 0.0.35 | 1,385 | 1 |
+| 64 | [n8n-nodes-asaas-v2](https://www.npmjs.com/package/n8n-nodes-asaas-v2) | Integrate with the Asaas API. | [@degoisrs](null/degoisrs) | 1.0.15 | 1,283 | 3 |
+| 65 | [n8n-nodes-enlightenedmsp](https://www.npmjs.com/package/@couleetech/n8n-nodes-enlightenedmsp) | Automate ticketing and workflows with EnlightenedMSP. | [@tholum](null/tholum) | 1.10.0 | 1,280 | 12 |
+| 66 | [n8n-nodes-near-protocol](https://www.npmjs.com/package/@dapplets/n8n-nodes-near-protocol) | Integrate with the NEAR Protocol. | [@dapplets-org](null/dapplets-org) | 0.1.32 | 1,218 | 1 |
+| 67 | [n8n-nodes-perfexcrmn8n](https://www.npmjs.com/package/@itdescomplicar/n8n-nodes-perfexcrmn8n) | Integrate with PerfexCRM. | [@itdescomplicar](null/itdescomplicar) | 0.2.0 | 1,206 | 2 |
+| 68 | [n8n-nodes-planka](https://www.npmjs.com/package/n8n-nodes-planka) | Integrate with Planka for project management. | [@tsilvaec](null/tsilvaec) | 1.1.4 | 1,199 | 3 |
+| 69 | [n8n-nodes-tess-ai-by-pareto](https://www.npmjs.com/package/n8n-nodes-tess-ai-by-pareto) | Integrate with Tess AI by Pareto. | [@allanthalisson.pareto](null/allanthalisson.pareto) | 1.1.5 | 1,186 | 3 |
+| 80 | [n8n-nodes-openrouter](https://www.npmjs.com/package/n8n-nodes-openrouter) | Integrate with the OpenRouter API. | [@matthewsabia_dev](null/matthewsabia_dev) | 0.3.37 | 1,060 | 24 |
+| 84 | [n8n-nodes-companies-house](https://www.npmjs.com/package/n8n-nodes-companies-house) | Integrate with Companies House UK. | [@iancarroll](null/iancarroll) | 0.1.19 | 1,003 | 3 |
+| 88 | [n8n-nodes-google-search](https://www.npmjs.com/package/@bitovi/n8n-nodes-google-search) | Connect to Google Search. | [@bitovi-os](null/bitovi-os) | 0.1.6 | 973 | 21 |
+| 92 | [n8n-nodes-quidvista](https://www.npmjs.com/package/n8n-nodes-quidvista) | Interact with msgboxx via quidvista. | [@quidvista](null/quidvista) | 0.2.7 | 944 | 4 |
+| 93 | [n8n-nodes-formbricks](https://www.npmjs.com/package/@formbricks/n8n-nodes-formbricks) | Connect Formbricks and send survey data to other apps. | [@matthiasnannt](null/matthiasnannt) | 1.0.2 | 933 | 65 |
 
 ---
 
@@ -141,19 +132,18 @@ the box on all subscription plans, including free plan.
 
 | #  | Node | Description | Author | Version | Monthly Downloads | Updated (weeks ago) |
 |----|------|-------------|--------|---------|-------------------|---------------------|
-| 7  | [n8n-nodes-deepseek](https://www.npmjs.com/package/n8n-nodes-deepseek) | Integrate DeepSeek AI for workflows. | [@rubickecho](null/rubickecho) | 1.0.6 | 16,841 | 19 |
-| 11 | [n8n-nodes-elevenlabs](https://www.npmjs.com/package/n8n-nodes-elevenlabs) | Integrate ElevenLabs AI voice generation. | [@n8ninja](null/n8ninja) | 0.0.6 | 8,283 | 42 |
-| 31 | [n8n-nodes-databricks-ai](https://www.npmjs.com/package/n8n-nodes-databricks-ai) | Integrate with Databricks AI models. | [@ibrahho](null/ibrahho) | 0.3.15 | 2,695 | 5 |
-| 34 | [n8n-nodes-deepseek-llm](https://www.npmjs.com/package/n8n-nodes-deepseek-llm) | Integrate DeepSeek LLM for AI tasks. | [@rotour](null/rotour) | 1.0.7 | 2,432 | 12 |
-| 35 | [n8n-nodes-makehub](https://www.npmjs.com/package/n8n-nodes-makehub) | Integrate with MakeHub AI LLM API. | [@remenby](null/remenby) | 1.0.37 | 2,385 | 3 |
-| 57 | [n8n-nodes-openrouter](https://www.npmjs.com/package/n8n-nodes-openrouter) | Integrate with OpenRouter API. | [@matthewsabia_dev](null/matthewsabia_dev) | 0.3.37 | 1,214 | 21 |
-| 60 | [n8n-nodes-metisai](https://www.npmjs.com/package/n8n-nodes-metisai) | Integrate with Metis AI chatbot. | [@hkhoshraftar](null/hkhoshraftar) | 1.0.28 | 1,129 | 1 |
-| 61 | [n8n-nodes-comfyui](https://www.npmjs.com/package/n8n-nodes-comfyui) | Integrate with ComfyUI for stable diffusion. | [@mason276752](null/mason276752) | 0.0.6 | 1,128 | 11 |
-| 65 | [n8n-nodes-sai-hello-world](https://www.npmjs.com/package/n8n-nodes-sai-hello-world) | Create dynamic text classifiers with Supervisor AI. | [@getsupervisor](null/getsupervisor) | 1.0.16 | 1,062 | 2 |
-| 73 | [n8n-nodes-elevenlabs-langfix](https://www.npmjs.com/package/n8n-nodes-elevenlabs-langfix) | Integrate ElevenLabs AI voice generation (langfix). | [@mabulla](null/mabulla) | 1.1.8 | 946 | 11 |
-| 79 | [n8n-nodes-useapi](https://www.npmjs.com/package/n8n-nodes-useapi) | Access multiple creative APIs. | [@lvalics](null/lvalics) | 0.2.2 | 862 | 1 |
-| 91 | [n8n-nodes-groq-voice-models](https://www.npmjs.com/package/n8n-nodes-groq-voice-models) | Integrate with Groq Voice Models. | [@luisbeonline](null/luisbeonline) | 0.0.1 | 730 | 11 |
-| 94 | [n8n-nodes-ollama-ext](https://www.npmjs.com/package/n8n-nodes-ollama-ext) | Integrate with Ollama for embeddings. | [@pacok](null/pacok) | 0.0.4 | 716 | 7 |
+| 5  | [n8n-nodes-deepseek](https://www.npmjs.com/package/n8n-nodes-deepseek) | Integrate DeepSeek AI for workflows. | [@rubickecho](null/rubickecho) | 1.0.6 | 82,506 | 23 |
+| 10 | [n8n-nodes-elevenlabs](https://www.npmjs.com/package/n8n-nodes-elevenlabs) | Integrate ElevenLabs AI voice generation. | [@n8ninja](null/n8ninja) | 0.0.6 | 19,775 | 45 |
+| 38 | [n8n-nodes-metisai](https://www.npmjs.com/package/n8n-nodes-metisai) | Integrate with Metis AI chatbot. | [@hkhoshraftar](null/hkhoshraftar) | 1.0.37 | 2,308 | 3 |
+| 41 | [@watzon/n8n-nodes-perplexity](https://www.npmjs.com/package/@watzon/n8n-nodes-perplexity) | Integrate with Perplexity AI API. | [@watzon](null/watzon) | 0.5.2 | 2,053 | 7 |
+| 49 | [n8n-nodes-gemini-search](https://www.npmjs.com/package/n8n-nodes-gemini-search) | Interact with the Google Gemini API for search and content generation. | [@rufaromugabe](null/rufaromugabe) | 1.0.22 | 1,744 | 3 |
+| 55 | [n8n-nodes-aistudio-updated](https://www.npmjs.com/package/n8n-nodes-aistudio-updated) | Integrate with AI APIs including Gemini, Claude, and GPT. | [@henkey](https://www.npmjs.com/henkey) | 1.5.4 | 1,423 | 5 |
+| 69 | [n8n-nodes-tess-ai-by-pareto](https://www.npmjs.com/package/n8n-nodes-tess-ai-by-pareto) | Integrate with Tess AI by Pareto. | [@allanthalisson.pareto](null/allanthalisson.pareto) | 1.1.5 | 1,186 | 3 |
+| 73 | [n8n-nodes-deepgram](https://www.npmjs.com/package/n8n-nodes-deepgram) | Integrate with Deepgram for speech recognition. | [@optron](null/optron) | 0.2.7 | 1,100 | 3 |
+| 74 | [n8n-nodes-sai-hello-world](https://www.npmjs.com/package/n8n-nodes-sai-hello-world) | Create dynamic text classifiers with Supervisor AI. | [@getsupervisor](null/getsupervisor) | 1.0.16 | 1,097 | 5 |
+| 76 | [@adamhancock/n8n-nodes-msp-ai](https://www.npmjs.com/package/@adamhancock/n8n-nodes-msp-ai) | Custom nodes for MSP AI integration. | [@adam1571](null/adam1571) | 0.1.14 | 1,070 | 1 |
+| 81 | [n8n-nodes-deepseek-llm](https://www.npmjs.com/package/n8n-nodes-deepseek-llm) | Integrate DeepSeek LLM for AI tasks. | [@rotour](null/rotour) | 1.0.7 | 1,026 | 15 |
+| 87 | [n8n-nodes-roundtable](https://www.npmjs.com/package/n8n-nodes-roundtable) | Orchestrate multi-agent LLM discussions. | [@james-fincher](null/james-fincher) | 0.4.2 | 974 | 2 |
 
 ---
 
@@ -161,14 +151,13 @@ the box on all subscription plans, including free plan.
 
 | #  | Node | Description | Author | Version | Monthly Downloads | Updated (weeks ago) |
 |----|------|-------------|--------|---------|-------------------|---------------------|
-| 14 | [n8n-nodes-docx-converter](https://www.npmjs.com/package/n8n-nodes-docx-converter) | Convert DOCX files to text. | [@cre8tiv](null/cre8tiv) | 0.1.3 | 6,886 | 24 |
-| 16 | [n8n-nodes-edit-image-plus](https://www.npmjs.com/package/n8n-nodes-edit-image-plus) | Enhance images in workflows. | [@unilogica](null/unilogica) | 0.1.10 | 6,719 | 86 |
-| 27 | [n8n-nodes-pdfkit](https://www.npmjs.com/package/n8n-nodes-pdfkit) | Convert images to PDF with PDFKit. | [@bramknuever](null/bramknuever) | 0.1.2 | 3,207 | 98 |
-| 40 | [@cloudconvert/n8n-nodes-cloudconvert](https://www.npmjs.com/package/@cloudconvert/n8n-nodes-cloudconvert) | Integrate with CloudConvert for file conversion. | [@josiasmontag](null/josiasmontag) | 1.0.0 | 1,747 | 97 |
-| 62 | [n8n-nodes-ffmpeg](https://www.npmjs.com/package/n8n-nodes-ffmpeg) | Merge videos using FFMPEG. | [@chelovek86](null/chelovek86) | 0.1.4 | 1,077 | 8 |
-| 74 | [n8n-nodes-pdf-generation](https://www.npmjs.com/package/n8n-nodes-pdf-generation) | Generate PDF from text or tables. | [@tuananhit1612](null/tuananhit1612) | 0.1.0 | 914 | 16 |
-| 77 | [n8n-nodes-exifr](https://www.npmjs.com/package/n8n-nodes-exifr) | Extract EXIF data from images. | [@bored0ne](null/bored0ne) | 0.1.12 | 871 | 4 |
-| 97 | [n8n-nodes-opencv](https://www.npmjs.com/package/n8n-nodes-opencv) | Perform OpenCV operations in workflows. | [@jreyesr](null/jreyesr) | 1.0.0 | 709 | 10 |
+| 18 | [n8n-nodes-pdfkit](https://www.npmjs.com/package/n8n-nodes-pdfkit) | Convert images to PDF with PDFKit. | [@bramknuever](null/bramknuever) | 0.1.2 | 7,883 | 101 |
+| 23 | [n8n-nodes-edit-image-plus](https://www.npmjs.com/package/n8n-nodes-edit-image-plus) | Enhance images in workflows. | [@unilogica](null/unilogica) | 0.1.10 | 6,366 | 89 |
+| 54 | [@cloudconvert/n8n-nodes-cloudconvert](https://www.npmjs.com/package/@cloudconvert/n8n-nodes-cloudconvert) | Integrate with CloudConvert for file conversion. | [@josiasmontag](null/josiasmontag) | 1.0.0 | 1,433 | 101 |
+| 79 | [n8n-nodes-docx-converter](https://www.npmjs.com/package/n8n-nodes-docx-converter) | Convert DOCX files to text. | [@cre8tiv](null/cre8tiv) | 0.1.3 | 1,063 | 27 |
+| 89 | [n8n-nodes-cloudconvert](https://www.npmjs.com/package/n8n-nodes-cloudconvert) | Send file conversion jobs to CloudConvert. | [@yann_j](null/yann_j) | 0.1.7 | 957 | 110 |
+| 90 | [n8n-nodes-plemeo-ocr](https://www.npmjs.com/package/n8n-nodes-plemeo-ocr) | Process OCR on images using Plemeo. | [@jan.thanei](null/jan.thanei) | 0.1.19 | 954 | 1 |
+| 96 | [n8n-nodes-tesseractjs](https://www.npmjs.com/package/n8n-nodes-tesseractjs) | Detect text in images using Tesseract.js OCR. | [@jreyesr](null/jreyesr) | 1.2.0 | 886 | 8 |
 
 ---
 
@@ -176,9 +165,11 @@ the box on all subscription plans, including free plan.
 
 | #  | Node | Description | Author | Version | Monthly Downloads | Updated (weeks ago) |
 |----|------|-------------|--------|---------|-------------------|---------------------|
-| 50 | [n8n-nodes-form-login](https://www.npmjs.com/package/n8n-nodes-form-login) | Perform HTTP POST login. | [@matpasquet](null/matpasquet) | 0.1.8 | 1,459 | 50 |
-| 78 | [n8n-nodes-debughelper](https://www.npmjs.com/package/n8n-nodes-debughelper) | Debug helper tools for workflows. | [@flipswitchingmonkey](null/flipswitchingmonkey) | 0.1.4 | 867 | 93 |
-| 89 | [n8n-nodes-rss-feed-trigger](https://www.npmjs.com/package/n8n-nodes-rss-feed-trigger) | Trigger workflows from RSS feeds. | [@joff](null/joff) | 0.1.3 | 740 | 123 |
+| 36 | [n8n-nodes-roundrobin](https://www.npmjs.com/package/n8n-nodes-roundrobin) | Store and retrieve messages in a round-robin fashion. | [@james-fincher](null/james-fincher) | 0.18.3 | 2,431 | 2 |
+| 56 | [n8n-nodes-websockets-lite-a](https://www.npmjs.com/package/n8n-nodes-websockets-lite-a) | Trigger workflows via WebSockets. | [@tienanhemho](null/tienanhemho) | 0.5.5 | 1,417 | 3 |
+| 85 | [n8n-nodes-randomizer](https://www.npmjs.com/package/n8n-nodes-randomizer) | Randomize data in workflows. | [@mcnaveen](null/mcnaveen) | 0.1.0 | 995 | 102 |
+| 91 | [n8n-nodes-bgg](https://www.npmjs.com/package/n8n-nodes-bgg) | Search and retrieve board game information from BoardGameGeek. | [@webthingee](null/webthingee) | 0.1.13 | 948 | 3 |
+| 97 | [@sashajo/n8n-nodes-socketio](https://www.npmjs.com/package/@sashajo/n8n-nodes-socketio) | Listen to Socket.IO events and trigger workflows. | [@sashajo](null/sashajo) | 0.1.12 | 881 | 1 |
 
 ---
 
