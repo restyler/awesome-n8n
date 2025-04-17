@@ -128,7 +128,6 @@ the box on all subscription plans, including free plan.
 | 67 | [n8n-nodes-perfexcrmn8n](https://www.npmjs.com/package/@itdescomplicar/n8n-nodes-perfexcrmn8n) | Integrate with PerfexCRM. | [@itdescomplicar](null/itdescomplicar) | 0.2.0 | 1,206 | 2 |
 | 68 | [n8n-nodes-planka](https://www.npmjs.com/package/n8n-nodes-planka) | Integrate with Planka for project management. | [@tsilvaec](null/tsilvaec) | 1.1.4 | 1,199 | 3 |
 | 69 | [n8n-nodes-tess-ai-by-pareto](https://www.npmjs.com/package/n8n-nodes-tess-ai-by-pareto) | Integrate with Tess AI by Pareto. | [@allanthalisson.pareto](null/allanthalisson.pareto) | 1.1.5 | 1,186 | 3 |
-| 80 | [n8n-nodes-openrouter](https://www.npmjs.com/package/n8n-nodes-openrouter) | Integrate with the OpenRouter API. | [@matthewsabia_dev](null/matthewsabia_dev) | 0.3.37 | 1,060 | 24 |
 | 84 | [n8n-nodes-companies-house](https://www.npmjs.com/package/n8n-nodes-companies-house) | Integrate with Companies House UK. | [@iancarroll](null/iancarroll) | 0.1.19 | 1,003 | 3 |
 | 88 | [n8n-nodes-google-search](https://www.npmjs.com/package/@bitovi/n8n-nodes-google-search) | Connect to Google Search. | [@bitovi-os](null/bitovi-os) | 0.1.6 | 973 | 21 |
 | 92 | [n8n-nodes-quidvista](https://www.npmjs.com/package/n8n-nodes-quidvista) | Interact with msgboxx via quidvista. | [@quidvista](null/quidvista) | 0.2.7 | 944 | 4 |
@@ -150,6 +149,7 @@ the box on all subscription plans, including free plan.
 | 73 | [n8n-nodes-deepgram](https://www.npmjs.com/package/n8n-nodes-deepgram) | Integrate with Deepgram for speech recognition. | [@optron](null/optron) | 0.2.7 | 1,100 | 3 |
 | 74 | [n8n-nodes-sai-hello-world](https://www.npmjs.com/package/n8n-nodes-sai-hello-world) | Create dynamic text classifiers with Supervisor AI. | [@getsupervisor](null/getsupervisor) | 1.0.16 | 1,097 | 5 |
 | 76 | [@adamhancock/n8n-nodes-msp-ai](https://www.npmjs.com/package/@adamhancock/n8n-nodes-msp-ai) | Custom nodes for MSP AI integration. | [@adam1571](null/adam1571) | 0.1.14 | 1,070 | 1 |
+| 80 | [n8n-nodes-openrouter](https://www.npmjs.com/package/n8n-nodes-openrouter) | Integrate with the OpenRouter API. | [@matthewsabia_dev](null/matthewsabia_dev) | 0.3.37 | 1,060 | 24 |
 | 81 | [n8n-nodes-deepseek-llm](https://www.npmjs.com/package/n8n-nodes-deepseek-llm) | Integrate DeepSeek LLM for AI tasks. | [@rotour](null/rotour) | 1.0.7 | 1,026 | 15 |
 | 87 | [n8n-nodes-roundtable](https://www.npmjs.com/package/n8n-nodes-roundtable) | Orchestrate multi-agent LLM discussions. | [@james-fincher](null/james-fincher) | 0.4.2 | 974 | 2 |
 
