@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/restyler-awesome-n8n-badge.png)](https://mseep.ai/app/restyler-awesome-n8n)
+
 # Awesome N8N: Top 100 Community Nodes
 
 [n8n](https://n8n.partnerlinks.io/xvc4bt53bv9e) is a self‑hosted, open‑source workflow automation platform that lets you build workflows.  
