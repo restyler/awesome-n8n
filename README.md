@@ -1,5 +1,8 @@
 # Awesome N8N: Top 100 Community Nodes
 
+[![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
+[![中文文档](https://img.shields.io/badge/中文文档-点击查看-orange)](README-zh.md)
+
 [n8n](https://n8n.partnerlinks.io/xvc4bt53bv9e) is a self‑hosted, open‑source workflow automation platform that lets you build workflows.
 This list features the most popular community nodes – the node's number is its ranking based on monthly downloads (from npmjs.com).
 
