@@ -225,6 +225,7 @@ ScrapeNinja handles headless browsers, proxies, timeouts, retries, and helps wit
 ## Useful Resources
 
 ### n8n Self‑Hosted
+- [n8n-starter](https://github.com/gabry-ts/n8n-starter) - GitOps for n8n. Version workflows in Git, two-way sync, AI agent integration, Docker Compose ready.
 - [Installing community nodes](https://docs.n8n.io/integrations/community-nodes/installation/)
 - [Installing and updating n8n in Docker](https://docs.n8n.io/hosting/installation/docker/)
 - [Web scraping in n8n](https://pixeljets.com/blog/web-scraping-in-n8n/)
