@@ -188,6 +188,7 @@ ScrapeNinja handles headless browsers, proxies, timeouts, retries, and helps wit
 | 73 | [n8n-nodes-docx-converter](https://www.npmjs.com/package/n8n-nodes-docx-converter) | Converts Docx to Text. | [@cre8tiv](https://github.com/cre8tiv) | 0.1.3 | 6,339 | 67 |
 | 79 | [n8n-nodes-pdf-generation](https://www.npmjs.com/package/n8n-nodes-pdf-generation) | Generates PDFs from text or table data. | [@tuananhit1612](https://github.com/tuananhit1612) | 0.1.0 | 5,339 | 59 |
 | 98 | [n8n-nodes-sb-render](https://www.npmjs.com/package/n8n-nodes-sb-render) | Video rendering with customizable subtitles, background music, and narration. | [@choisb87](https://github.com/choisb87) | 1.6.6 | 3,822 | 2 |
+| - | [n8n-nodes-ffmpeg-wasm](https://www.npmjs.com/package/n8n-nodes-ffmpeg-wasm) | FFmpeg compiled to WebAssembly — run video/audio conversions inside n8n with zero server dependencies. | [@Prakashmaheshwaran](https://github.com/Prakashmaheshwaran) | - | - | - |
 
 
 ## 8. Miscellaneous & Testing Nodes
@@ -217,6 +218,7 @@ ScrapeNinja handles headless browsers, proxies, timeouts, retries, and helps wit
 | 87 | [n8n-nodes-cloudinary](https://www.npmjs.com/package/n8n-nodes-cloudinary) | The official Cloudinary n8n node - upload media, update asset tags and metadata, and more | [@sveta_s](https://github.com/sveta_s) | 0.0.9 | 4,395 | 2 |
 | 96 | [n8n-nodes-aws-sqs-trigger](https://www.npmjs.com/package/n8n-nodes-aws-sqs-trigger) | N8N SQS Trigger Node | [@prasenjit.ghoshal](https://github.com/prasenjit.ghoshal) | 0.1.1 | 3,902 | 180 |
 | 100 | [@globalping/n8n-nodes-globalping](https://www.npmjs.com/package/@globalping/n8n-nodes-globalping) | The Globalping n8n node allows you to perform network measurements such as ping, traceroute, mtr, ht... | [@jimaek](https://github.com/jimaek) | 1.0.5 | 3,602 | 36 |
+| - | [n8n-nodes-youtube-dl](https://www.npmjs.com/package/n8n-nodes-youtube-dl) | YouTube downloader node for n8n — download videos and audio from YouTube directly in your workflows. | [@Prakashmaheshwaran](https://github.com/Prakashmaheshwaran) | - | - | - |
 
 
 
