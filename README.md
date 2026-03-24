@@ -229,3 +229,9 @@ ScrapeNinja handles headless browsers, proxies, timeouts, retries, and helps wit
 - [Installing and updating n8n in Docker](https://docs.n8n.io/hosting/installation/docker/)
 - [Web scraping in n8n](https://pixeljets.com/blog/web-scraping-in-n8n/)
 - [n8n for developers](https://pixeljets.com/blog/n8n/)
+
+### Workflow Templates
+- [n8n AI Workflow Templates (Ollama)](https://github.com/bonskari/n8n-ai-workflows) - Collection of production-ready n8n workflows using Ollama for local AI, including blog writer, social media generator, and data extractor.
+- [n8n Ollama Blog Writer](https://github.com/bonskari/n8n-ollama-blog-writer) - n8n workflow for automated blog post generation using Ollama.
+- [n8n Ollama Social Content](https://github.com/bonskari/n8n-ollama-social-content) - n8n workflow for generating social media content with Ollama.
+- [n8n Ollama Email Responder](https://github.com/bonskari/n8n-ollama-email-responder) - n8n workflow for automated email responses using Ollama.
