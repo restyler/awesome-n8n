@@ -121,6 +121,7 @@ ScrapeNinja handles headless browsers, proxies, timeouts, retries, and helps wit
 | 14 | [n8n-nodes-cronlytic](https://www.npmjs.com/package/n8n-nodes-cronlytic) | Advanced cron scheduling with Cronlytic integration. | [@cronlytic](https://github.com/cronlytic) | 0.1.4 | 197,802 | 31 |
 | 66 | [n8n-nodes-tesseractjs](https://www.npmjs.com/package/n8n-nodes-tesseractjs) | Exposes Tesseract.js, an OCR library that detects text on images. | [@jreyesr](https://github.com/jreyesr) | 1.5.1 | 8,122 | 10 |
 | 92 | [@splainez/n8n-nodes-phonenumber-parser](https://www.npmjs.com/package/@splainez/n8n-nodes-phonenumber-parser) | Parses a phone number and returns its information. | [@splainez](https://github.com/splainez) | 1.2.0 | 4,064 | 14 |
+| — | [n8n-nodes-osop](https://www.npmjs.com/package/n8n-nodes-osop) | Import, export, and validate OSOP workflows inside n8n. Convert n8n workflows to portable YAML format. | [@Archie0125](https://github.com/Archie0125) | 0.1.0 | — | 0 |
 
 
 ## 5. API & Cloud Integrations Nodes
