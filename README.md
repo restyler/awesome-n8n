@@ -11,6 +11,7 @@ This list features the most popular community nodes – the node's number is its
 **Legend:** 🆕 - New node added in the latest crawl
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 AI agent system prompts for Claude Code with N8N workflow integration, multi-agent orchestration, task registry, and quality gates. MIT licensed.
 ## Crawler Statistics
 
 
