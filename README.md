@@ -229,3 +229,4 @@ ScrapeNinja handles headless browsers, proxies, timeouts, retries, and helps wit
 - [Installing and updating n8n in Docker](https://docs.n8n.io/hosting/installation/docker/)
 - [Web scraping in n8n](https://pixeljets.com/blog/web-scraping-in-n8n/)
 - [n8n for developers](https://pixeljets.com/blog/n8n/)
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
