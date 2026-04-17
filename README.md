@@ -229,3 +229,4 @@ ScrapeNinja handles headless browsers, proxies, timeouts, retries, and helps wit
 - [Installing and updating n8n in Docker](https://docs.n8n.io/hosting/installation/docker/)
 - [Web scraping in n8n](https://pixeljets.com/blog/web-scraping-in-n8n/)
 - [n8n for developers](https://pixeljets.com/blog/n8n/)
+- [n8n Webhook Security — Production Patterns](https://github.com/veyis/pxlpeak-public-resources/blob/main/n8n-webhook-security.md) — 8-layer pattern: signed headers, shared secrets, IP allowlisting, rate limiting, payload validation, idempotency, safe error handling, secrets management.
