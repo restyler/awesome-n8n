@@ -159,6 +159,7 @@ ScrapeNinja handles headless browsers, proxies, timeouts, retries, and helps wit
 | 94 | [n8n-nodes-asaas-v2](https://www.npmjs.com/package/n8n-nodes-asaas-v2) | Integrates with the Asaas API. | [@degoisrs](https://github.com/degoisrs) | 1.0.15 | 3,986 | 43 |
 | 97 | [n8n-nodes-confirm8 🆕](https://www.npmjs.com/package/n8n-nodes-confirm8) | Integrates with Confirm8 API without requiring credentials. | [@billhebert](https://www.npmjs.com/~billhebert) | 0.52.0 | 3,873 | 5 |
 | 99 | [n8n-nodes-metricool-or 🆕](https://www.npmjs.com/package/n8n-nodes-metricool-or) | Integration with Metricool social media management platform. | [@kukis2107](https://github.com/kukis2107) | 1.3.1 | 3,647 | 3 |
+| - | [n8n-nodes-ninaapi](https://www.npmjs.com/package/n8n-nodes-ninaapi) | N.I.N.A. astronomy software community nodes — control cameras, mounts, domes, focusers, polar alignment, sequences and more via ninaAPI. | [@eliasstepanik](https://github.com/eliasstepanik) | 1.2.0 | - | - |
 
 
 ## 6. AI, LLM & Voice Nodes
