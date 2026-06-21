@@ -229,3 +229,4 @@ ScrapeNinja handles headless browsers, proxies, timeouts, retries, and helps wit
 - [Installing and updating n8n in Docker](https://docs.n8n.io/hosting/installation/docker/)
 - [Web scraping in n8n](https://pixeljets.com/blog/web-scraping-in-n8n/)
 - [n8n for developers](https://pixeljets.com/blog/n8n/)
+- [n8n-security](https://github.com/Perufitlife/n8n-security) - One-line CLI auditor for self-hosted n8n: checks for unauthenticated `/rest/settings` exposure and CVE-2026-21858, no token required (`npx n8n-security --url https://your-n8n.example.com`)
