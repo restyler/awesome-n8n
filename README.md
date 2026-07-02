@@ -229,3 +229,8 @@ ScrapeNinja handles headless browsers, proxies, timeouts, retries, and helps wit
 - [Installing and updating n8n in Docker](https://docs.n8n.io/hosting/installation/docker/)
 - [Web scraping in n8n](https://pixeljets.com/blog/web-scraping-in-n8n/)
 - [n8n for developers](https://pixeljets.com/blog/n8n/)
+
+### French SMB automation (iamin.digital)
+- [French AI glossary (~200 terms)](https://iamin.digital/glossaire/) — open reference for PME teams, n8n, RAG, agents
+- [n8n Creator profile: iamin-digital](https://n8n.io/creators/iamin-digital) — production workflows for lead capture, CRM, follow-ups
+- [Sanitized n8n workflow samples (GitHub)](https://github.com/mmaghi001/iamin-n8n-workflows-samples) — importable JSON, credentials stripped
