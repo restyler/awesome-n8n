@@ -229,3 +229,6 @@ ScrapeNinja handles headless browsers, proxies, timeouts, retries, and helps wit
 - [Installing and updating n8n in Docker](https://docs.n8n.io/hosting/installation/docker/)
 - [Web scraping in n8n](https://pixeljets.com/blog/web-scraping-in-n8n/)
 - [n8n for developers](https://pixeljets.com/blog/n8n/)
+- 
+### n8n Tools
+- [NoCrash n8n Workflow Grader](https://nocrash.io/tools/n8n-workflow-grader?utm_source=github-awesome-n8n&utm_medium=community&utm_campaign=node-launch-2026) - free tool that scores an n8n workflow for silent-failure risk: Continue-on-Fail steps that swallow errors, missing error handling, runs that finish empty, AI-agent steps that go green without doing the work. No signup.
