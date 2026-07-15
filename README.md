@@ -224,6 +224,9 @@ ScrapeNinja handles headless browsers, proxies, timeouts, retries, and helps wit
 
 ## Useful Resources
 
+### Workflow Templates
+- [Italian n8n workflow templates for SMBs](https://github.com/Airvision2026/automazioni-pmi-italia) - free MIT-licensed workflows with Italian docs: website leads intake, payment reminders, AI email digest
+
 ### n8n Self‑Hosted
 - [Installing community nodes](https://docs.n8n.io/integrations/community-nodes/installation/)
 - [Installing and updating n8n in Docker](https://docs.n8n.io/hosting/installation/docker/)
