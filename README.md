@@ -229,3 +229,4 @@ ScrapeNinja handles headless browsers, proxies, timeouts, retries, and helps wit
 - [Installing and updating n8n in Docker](https://docs.n8n.io/hosting/installation/docker/)
 - [Web scraping in n8n](https://pixeljets.com/blog/web-scraping-in-n8n/)
 - [n8n for developers](https://pixeljets.com/blog/n8n/)
+- [Self-host n8n: Docker vs one-click deploy](https://n8n.runonflux.com/self-host-n8n)
