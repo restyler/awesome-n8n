@@ -229,3 +229,6 @@ ScrapeNinja handles headless browsers, proxies, timeouts, retries, and helps wit
 - [Installing and updating n8n in Docker](https://docs.n8n.io/hosting/installation/docker/)
 - [Web scraping in n8n](https://pixeljets.com/blog/web-scraping-in-n8n/)
 - [n8n for developers](https://pixeljets.com/blog/n8n/)
+
+
+- [n8n-qdrant-fastapi-bridge](https://github.com/AlfazMahmudRizve/n8n-qdrant-fastapi-bridge) - Production-ready FastAPI bridge connecting n8n workflows to self-hosted Qdrant vector database with bearer token security and sub-5ms local embeddings.
