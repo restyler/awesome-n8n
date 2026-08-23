@@ -227,5 +227,6 @@ ScrapeNinja handles headless browsers, proxies, timeouts, retries, and helps wit
 ### n8n Self‑Hosted
 - [Installing community nodes](https://docs.n8n.io/integrations/community-nodes/installation/)
 - [Installing and updating n8n in Docker](https://docs.n8n.io/hosting/installation/docker/)
+- [n8n queue-mode template for Railway](https://github.com/Kjudeh/n8n-production-stack) — main + workers on one pinned image, Redis, Postgres, execution pruning defaults, and S3 database backups ([one-click deploy](https://railway.com/deploy/n8n-production-stack-queue-mode))
 - [Web scraping in n8n](https://pixeljets.com/blog/web-scraping-in-n8n/)
 - [n8n for developers](https://pixeljets.com/blog/n8n/)
