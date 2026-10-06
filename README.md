@@ -229,3 +229,7 @@ ScrapeNinja handles headless browsers, proxies, timeouts, retries, and helps wit
 - [Installing and updating n8n in Docker](https://docs.n8n.io/hosting/installation/docker/)
 - [Web scraping in n8n](https://pixeljets.com/blog/web-scraping-in-n8n/)
 - [n8n for developers](https://pixeljets.com/blog/n8n/)
+
+### Templates & Data
+- [n8n workflow templates by integration](https://keyflowhub.com/n8n) - The 3,000 most-viewed n8n.io templates grouped by node, with search
+- [n8n node usage statistics](https://keyflowhub.com/stats) - Which nodes and LLM providers the most popular n8n templates actually use
