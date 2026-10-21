@@ -229,3 +229,4 @@ ScrapeNinja handles headless browsers, proxies, timeouts, retries, and helps wit
 - [Installing and updating n8n in Docker](https://docs.n8n.io/hosting/installation/docker/)
 - [Web scraping in n8n](https://pixeljets.com/blog/web-scraping-in-n8n/)
 - [n8n for developers](https://pixeljets.com/blog/n8n/)
+- [Filling PDF forms in n8n](https://justfill.app/integrations/n8n-fill-pdf-forms) - Step-by-step guide, import-ready workflow JSON, and [`n8n-nodes-justfill`](https://www.npmjs.com/package/n8n-nodes-justfill) community node for filling existing PDF forms from webhook or spreadsheet data
