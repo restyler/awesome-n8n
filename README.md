@@ -229,3 +229,6 @@ ScrapeNinja handles headless browsers, proxies, timeouts, retries, and helps wit
 - [Installing and updating n8n in Docker](https://docs.n8n.io/hosting/installation/docker/)
 - [Web scraping in n8n](https://pixeljets.com/blog/web-scraping-in-n8n/)
 - [n8n for developers](https://pixeljets.com/blog/n8n/)
+
+### Workflow Templates
+- [n8n Automation Templates (Pushbuild)](https://github.com/pushbuild/n8n-automation-templates) - Free, importable n8n workflows for common small-business automations: lead follow-up, QuickBooks invoices, document processing, Shopify fulfilment and more.
