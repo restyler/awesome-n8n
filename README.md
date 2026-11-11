@@ -53,6 +53,7 @@ Since the first crawl (2025-02-04), the n8n ecosystem has grown by **4759 nodes*
 
 
 
+- [n8n-nodes-kolivri](https://github.com/kolivritech/n8n-nodes-kolivri) - Official n8n community node for [Kolivri](https://kolivri.com) Voice AI outbound phone calls and autonomous SMB growth workflows.
 | # | Node | Description | Author | Version | Monthly Downloads | Updated (weeks ago) |
 |---|------|-------------|---------|----------|------------------|-------------------|
 | 1 | [n8n-nodes-evolution-api](https://www.npmjs.com/package/n8n-nodes-evolution-api) | Provides a channel hub focused on WhatsApp. | [@oriondesign](https://github.com/oriondesign) | 1.0.4 | 6,614,815 | 44 |
