@@ -229,3 +229,6 @@ ScrapeNinja handles headless browsers, proxies, timeouts, retries, and helps wit
 - [Installing and updating n8n in Docker](https://docs.n8n.io/hosting/installation/docker/)
 - [Web scraping in n8n](https://pixeljets.com/blog/web-scraping-in-n8n/)
 - [n8n for developers](https://pixeljets.com/blog/n8n/)
+
+### Payments & Settlement Workflows
+- [Reciprocal Ruler — x402 settlement workflow](https://github.com/hwcho310/reciprocal-ruler-mcp/tree/main/examples/n8n) - Importable workflow that locks the terms two agents agreed on (quote-lock), then reconciles what actually settled against the agreed holdback and flags or compensates the shortfall. Calls are paid per request over x402 in USDC on Base; a free trial endpoint lets you run the judgment first.
