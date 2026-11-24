@@ -121,6 +121,7 @@ ScrapeNinja handles headless browsers, proxies, timeouts, retries, and helps wit
 | 14 | [n8n-nodes-cronlytic](https://www.npmjs.com/package/n8n-nodes-cronlytic) | Advanced cron scheduling with Cronlytic integration. | [@cronlytic](https://github.com/cronlytic) | 0.1.4 | 197,802 | 31 |
 | 66 | [n8n-nodes-tesseractjs](https://www.npmjs.com/package/n8n-nodes-tesseractjs) | Exposes Tesseract.js, an OCR library that detects text on images. | [@jreyesr](https://github.com/jreyesr) | 1.5.1 | 8,122 | 10 |
 | 92 | [@splainez/n8n-nodes-phonenumber-parser](https://www.npmjs.com/package/@splainez/n8n-nodes-phonenumber-parser) | Parses a phone number and returns its information. | [@splainez](https://github.com/splainez) | 1.2.0 | 4,064 | 14 |
+| [Public Records data workflows](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/templates) | 17 ready-to-import n8n workflows (plus Make/Zapier/Pipedream HTTP recipes) that pull public data via Apify: SAM.gov and Grants.gov notices, USAspending awards, EU TED and UK tenders, city council agendas, Ashby/Greenhouse/Lever/SmartRecruiters jobs, Etsy sales, Google Ads Transparency, sports odds, Spotify plays |  |  |  |  |  |
 
 
 ## 5. API & Cloud Integrations Nodes
