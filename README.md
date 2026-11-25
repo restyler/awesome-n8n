@@ -9,6 +9,34 @@ This list features the most popular community nodes – the node's number is its
 
 **Legend:** ✅ verified by n8n (installable from the n8n editor, listed in n8n's catalogue) · 🆕 new in the latest crawl
 
+## Ecosystem Growth
+
+Total community packages on npm (keyword `n8n-community-node-package`) at each crawl.
+
+
+Since the first crawl (2025-02-04), the n8n ecosystem has grown by **13702 nodes** (20.8 per day on average).
+
+
+| Crawl Date | Total Nodes Found | New Nodes Total | Avg New Nodes/Day |
+|------------|-------------------|-----------------|-------------------|
+| 2025-02-04 | 1075 | - | - |
+| 2025-02-12 | 1108 | 33 | 4.1 |
+| 2025-03-04 | 1225 | 117 | 5.8 ↑ |
+| 2025-03-24 | 1357 | 132 | 6.6 → |
+| 2025-04-15 | 1535 | 178 | 8.1 ↑ |
+| 2025-05-06 | 1725 | 190 | 9.0 → |
+| 2025-05-28 | 1956 | 231 | 10.5 → |
+| 2025-06-15 | 2211 | 255 | 14.2 ↑ |
+| 2025-07-06 | 2515 | 304 | 14.5 → |
+| 2025-08-01 | 2918 | 403 | 15.5 → |
+| 2025-08-25 | 3302 | 384 | 16.0 → |
+| 2025-09-16 | 3668 | 366 | 16.6 → |
+| 2025-10-19 | 4187 | 519 | 15.7 → |
+| 2025-11-16 | 4665 | 478 | 17.1 → |
+| 2025-12-20 | 5276 | 611 | 18.0 → |
+| 2026-01-20 | 5834 | 558 | 18.0 → |
+| 2026-11-25 | 14777 | 8943 | 28.9 ↑ |
+
 ## Navigation
 - [1. Communication & Messaging Nodes](#1-communication--messaging-nodes)
 - [2. Document & Content Generation Nodes](#2-document--content-generation-nodes)
@@ -18,7 +46,6 @@ This list features the most popular community nodes – the node's number is its
 - [6. AI, LLM & Voice Nodes](#6-ai-llm--voice-nodes)
 - [7. File & PDF Manipulation Nodes](#7-file--pdf-manipulation-nodes)
 - [Useful Resources](#useful-resources)
-- [Ecosystem Growth](#ecosystem-growth)
 
 ---
 
@@ -195,31 +222,3 @@ ScrapeNinja handles headless browsers, proxies, timeouts, retries, and helps wit
 - [Installing and updating n8n in Docker](https://docs.n8n.io/hosting/installation/docker/)
 - [Web scraping in n8n](https://pixeljets.com/blog/web-scraping-in-n8n/)
 - [n8n for developers](https://pixeljets.com/blog/n8n/)
-
-## Ecosystem Growth
-
-Total community packages on npm (keyword `n8n-community-node-package`) at each crawl.
-
-
-Since the first crawl (2025-02-04), the n8n ecosystem has grown by **13702 nodes** (20.8 per day on average).
-
-
-| Crawl Date | Total Nodes Found | New Nodes Total | Avg New Nodes/Day |
-|------------|-------------------|-----------------|-------------------|
-| 2025-02-04 | 1075 | - | - |
-| 2025-02-12 | 1108 | 33 | 4.1 |
-| 2025-03-04 | 1225 | 117 | 5.8 ↑ |
-| 2025-03-24 | 1357 | 132 | 6.6 → |
-| 2025-04-15 | 1535 | 178 | 8.1 ↑ |
-| 2025-05-06 | 1725 | 190 | 9.0 → |
-| 2025-05-28 | 1956 | 231 | 10.5 → |
-| 2025-06-15 | 2211 | 255 | 14.2 ↑ |
-| 2025-07-06 | 2515 | 304 | 14.5 → |
-| 2025-08-01 | 2918 | 403 | 15.5 → |
-| 2025-08-25 | 3302 | 384 | 16.0 → |
-| 2025-09-16 | 3668 | 366 | 16.6 → |
-| 2025-10-19 | 4187 | 519 | 15.7 → |
-| 2025-11-16 | 4665 | 478 | 17.1 → |
-| 2025-12-20 | 5276 | 611 | 18.0 → |
-| 2026-01-20 | 5834 | 558 | 18.0 → |
-| 2026-11-25 | 14777 | 8943 | 28.9 ↑ |
